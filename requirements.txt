@@ -1,0 +1,5 @@
+streamlit
+pandas
+plotly
+textblob
+google-api-python-client
